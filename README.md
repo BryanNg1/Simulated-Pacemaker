@@ -1,15 +1,3 @@
-# 3K04
-### L03 - Group 28
-
-| ID             | Name                 | Email                |
-|----------------|----------------------|----------------------|
-| 400305852      | Seckin, Boran        | seckinb@mcmaster.ca  |
-| 400181785      | Ng, Bryan            | ngb7@mcmaster.ca     |
-| 400325961      | Kokot, Djordje       | kokotd@mcmaster.ca   |
-| 400321246      | Panem, Inno Magsino  | panemj1@mcmaster.ca  |
-| 400303078      | Kotecha, Parth Kamal | kotechap@mcmaster.ca |
-
-
 **Instructions for running DCM Interface:**
 
 1. Ensure datasheet.txt, pace-logo.png, and pacemaker_interface.py is downloaded.
